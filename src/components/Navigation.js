@@ -20,7 +20,7 @@ const Navigation = () => {
                         <Link to="/cart">
                             <div style={cartStyle}>
                                 <span>10</span>
-                                <img className="ml-2" src="/images/cart.png" alt="cart"/>
+                                <img className="ml-2" src="/images/cart.png" alt="cart-icon"/>
                             </div>
                         </Link>
                     </li>
